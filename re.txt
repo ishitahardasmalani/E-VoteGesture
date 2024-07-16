@@ -1,3 +1,6 @@
 opencv-python
 scikit-learn 
 pywin32
+mediapipe 0.8.1
+Tensorflow 2.3.0 or Later<br>tf-nightly 2.5.0.dev or later (Only when creating a TFLite for an LSTM model)
+matplotlib 3.3.2 or Later (Only if you want to display the confusion matrix)
